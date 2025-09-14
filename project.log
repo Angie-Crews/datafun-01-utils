@@ -1,0 +1,27 @@
+2025-09-03 18:58:10.849 | INFO     | __main__:<module>:46 - Logger loaded.
+2025-09-03 18:58:10.851 | INFO     | __main__:main:160 - STARTING main()..
+2025-09-03 18:58:10.851 | INFO     | __main__:main:161 - Byline:
+
+**********************************************************
+Crews Analytics — Project Header
+**********************************************************
+Author:                     Angie Crews
+Motto:                      Data Empowered Decisions
+Years Active:               5
+Accepting New Clients?:     True
+Currently Hiring?:          False
+Current Number of Employees:25
+Number of Offices:          4
+Office Locations:           ['Springfield, MO', 'Overland Park, KS', 'Lincoln, NE', 'Sioux City, IA']
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+**********************************************************
+
+2025-09-03 18:58:10.851 | INFO     | __main__:main:172 - This module is organized like all Python modules.
+2025-09-03 18:58:10.852 | INFO     | __main__:main:173 - We write professional Python from the start.
+2025-09-03 18:58:10.852 | INFO     | __main__:main:174 - END main()...
